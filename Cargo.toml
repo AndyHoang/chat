@@ -7,4 +7,4 @@ authors = ["andyhoang <andy@parcelperform.com>"]
 mio = "*"
 http-muncher = "0.2.0"
 rustc-serialize = "0.3.15"
-sha1 = "0.1.1"
+sha1 = "0.11.0"
